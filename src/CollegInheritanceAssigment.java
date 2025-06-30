@@ -40,5 +40,7 @@ public class CollegInheritanceAssigment {
     public static void main(String[] args) {
         student obj=new student("Presidency","Cse","hebbal","Sanjy","darshan","20211com0040");
         obj.display();
+
     }
 }
+//Abstract class we used in in java
